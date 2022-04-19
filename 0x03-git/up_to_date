@@ -1,1 +1,5 @@
-git update
+cat >README.md
+only time you are allowed to update and commit from GitHub interface
+git add .
+git commit -m 'update'
+git push
